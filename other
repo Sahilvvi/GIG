@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Booking Artist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .highlight {
+      color: #4a86e8;
+    }
+  </style>
+</head>
+<body>
+  <h1>Three steps. Three minutes. <span class="highlight">Booking Artist</span> has never been this easy!</h1>
+  <p>Tell our <span class="highlight">AI</span></p>
+  <p>Let our advanced <span class="highlight">Al</span> technology curate</p>
+  <p class="long-description">the perfect lineup for your event based on your preferences and create a truly memorable experience.</p>
+  <h2>0. <span class="highlight">Book artist via app!</span></h2>
+  <p>Elevate your event with ease by booking talented artists through our user-friendly app.</p>
+  <p class="soon">Launching Soon..</p>
+  <h2>Subscribe To Our Newsletter</h2>
+  <p>Have a successful event</p>
+  <p>Ensure the success of your event by entrusting us to deliver top-notch entertainment with our curated selection of skilled and diverse artists.</p>
+  <form>
+    <input type="email" placeholder="Enter your email" required>
+    <input type="submit" value="Subscribe">
+  </form>
+</body>
+</html>
